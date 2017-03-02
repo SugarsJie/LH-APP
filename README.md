@@ -1,2 +1,2 @@
 # LH-APP
-Use React Native
+React Native Demo
